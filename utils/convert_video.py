@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-'''Converts videos to formats acceptable my iMovie.'''
+'''Converts videos to formats acceptable by iMovie.'''
 
 import argparse
 import os
